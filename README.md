@@ -1,5 +1,15 @@
 # AI Ecosystem Explorer
 
+An interactive visualization of the modern AI ecosystem covering Machine Learning, Deep Learning, LLMs, Responsible AI, AI Governance, and emerging technologies.
+
+## 🚀 Live Demo
+
+👉 https://rishibharaj.github.io/AI-Concepts-Interactive_Dashboard/
+
+Explore the interactive sunburst chart directly in your browser.
+
+# AI Ecosystem Explorer
+
 A visual exploration of the modern artificial intelligence ecosystem.
 
 This project organizes AI concepts into a navigable hierarchy spanning:
