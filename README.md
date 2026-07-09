@@ -1,9 +1,22 @@
-# AI Concepts Dashboard
+# AI Ecosystem Explorer
 
-An interactive visualization of **Artificial Intelligence (AI)** and **Machine Learning (ML)** concepts, organized into hierarchical categories. Built with **Plotly** and **HTML**, this dashboard helps learners and professionals explore:
+# AI Knowledge Map
 
-- **Core AI/ML Concepts**: Data preprocessing, feature engineering, model architectures (CNN, RNN, Transformer), training techniques, evaluation metrics.
-- **Advanced AI Topics**: GANs, Diffusion Models, Graph Neural Networks, LLMs (Prompt Engineering, RAG), Responsible AI, Federated Learning, Edge AI.
+A visual exploration of the modern artificial intelligence ecosystem.
+
+This project organizes AI concepts into a navigable hierarchy spanning:
+
+- Machine Learning
+- Deep Learning
+- Large Language Models
+- Responsible AI
+- AI Governance
+- Federated Learning
+- Edge AI
+- Model Evaluation
+- Data Engineering
+
+The goal is to help learners and professionals understand how concepts relate to one another across the AI landscape.
 
 ## Features
 - 🎯 Dynamic **Sunburst Chart** visualization
