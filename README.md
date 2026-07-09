@@ -1,7 +1,5 @@
 # AI Ecosystem Explorer
 
-# AI Knowledge Map
-
 A visual exploration of the modern artificial intelligence ecosystem.
 
 This project organizes AI concepts into a navigable hierarchy spanning:
